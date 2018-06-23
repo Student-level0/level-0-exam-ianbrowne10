@@ -32,8 +32,8 @@ Robot rob = new Robot();
 
    	 // 2. set the pen width to 10
 
-   	 // 1. make the Robot draw a shape
-   	 
-    }
+		// 1. make the Robot draw a shape
+
+	}
 
 }
